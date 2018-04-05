@@ -80,7 +80,7 @@
     <div class="q_l_m_main">
       <div class="q_l_m_img_div">
         <img src="<?php echo DIR; ?>/images/avatars/voldemort.jpg" alt="">
-        <span class="q_l_username">Mirza ghalib</span>
+        <span class="q_l_username">Subho</span>
       </div>
       <form class="q_l_m_form" method="post">
         <input type="password" name="q_password" value="" autocomplete="off" placeholder="Password" id="q_l_password" class="" spellcheck="false" required maxlength="32">

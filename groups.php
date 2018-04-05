@@ -36,9 +36,9 @@
 ?>
 
 <?php
-  $title = "{$noti->titleNoti()} {$groups->GETgrp($grp, 'grp_name')} • Instagram";
-  $keywords = "Instagram, Share and capture world's moments";
-  $desc = "View group • Instagram";
+  $title = "{$noti->titleNoti()} {$groups->GETgrp($grp, 'grp_name')} • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments";
+  $desc = "View group • Hashtag";
 ?>
 
 <?php include_once 'includes/header.php'; ?>

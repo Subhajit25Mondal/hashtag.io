@@ -20,9 +20,9 @@
 ?>
 
 <?php
-  $title = "{$noti->titleNoti()} Messages • Instagram";
-  $keywords = "Instagram, Share and capture world's moments, share, capture, messages";
-  $desc = "Instagram lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
+  $title = "{$noti->titleNoti()} Messages • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments, share, capture, messages";
+  $desc = "Hashtag lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
 ?>
 
 <!-- including files for header of document -->

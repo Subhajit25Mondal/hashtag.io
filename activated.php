@@ -18,9 +18,9 @@
 ?>
 
 <?php
-  $title = "Email activation!! • Instagram";
-  $keywords = "Instagram, Share and capture world's moments, share, capture, about";
-  $desc = "Instagram lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
+  $title = "Email activation!! • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments, share, capture, about";
+  $desc = "Hashtag lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
 ?>
 
 <?php 

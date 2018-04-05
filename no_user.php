@@ -12,9 +12,9 @@
 ?>
 
 <?php
-  $title = "{$noti->titleNoti()} Member not found • Instagram";
-  $keywords = "eror, 404, document not found, webpage not found, Instagram, Share and capture world's moments";
-  $desc = "There's been an error • Instagram";
+  $title = "{$noti->titleNoti()} Member not found • Hashtag";
+  $keywords = "eror, 404, document not found, webpage not found, Hashtag, Share and capture world's moments";
+  $desc = "There's been an error • Hashtag";
 ?>
 
 <?php

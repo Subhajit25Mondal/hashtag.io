@@ -1,3 +1,18 @@
+
+<style type="text/css">                       <!--NEWWWWWWWWWWWWWWWWWWWWWWWWWWW-->
+.show{display:block;}
+.hide{display:none;}
+</style>
+
+
+
+
+
+
+
+
+
+
 <?php include 'config/declare.php'; ?>
 
 <!-- a universal file that has all the classes included -->
@@ -30,7 +45,7 @@
 
   <div class="input_wrapper">
     <div class="display_text">
-      <span>Get started now and let the fun begins</span>
+      <span>Get started now and let the fun begin</span>
     </div>
     <div class="sign_up_div">
       <form class="sign_up" id="sign_up" action="" method="post">
@@ -54,11 +69,13 @@
           <div class="three"></div>
           <div class="four"></div>
         </div><br>
-        <input type="checkbox" id="s_terms" name="s_terms" class="s_terms" required>
+        <input type="checkbox" id="s_terms" name="s_terms" class="s_terms" required, checked>
         <label for="s_terms" class="terms">I agree to <a href="terms" class="a_pri">Hashtag Terms</a></label>
         <input type="submit" name="s_submit" value="Sign up for free" class="s_submit">
       </form>
     </div>
+      <br><br>
+      <center><img id="Picture1" src="images/loading.gif" height="80px" width="120px" class="hide"></center>
   </div>
 
   <div class="notify">
@@ -69,6 +86,46 @@
 
 <div class="overlay-2"></div>
 <?php include 'index_include/index_footer.php'; ?>
+
+
+
+
+
+
+
+                                                <!--NEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW-->
+
+
+<!--<script type="text/javascript">
+function showImg()
+{
+var obj=document.getElementById('Picture1');
+obj.className = 'show';
+}
+</script>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript">
   $(function(){
@@ -82,6 +139,28 @@
 
       $('.s_submit').prop('disabled', true);
       $('.overlay-2').show();
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         var obj=document.getElementById('Picture1');              
+obj.className = 'show';
+            
+        
+        
+        
+        
+        
+        
+        
+        
 
       var username = $('.s_username').val();
       var firstname = $('.s_firstname').val();
@@ -103,7 +182,7 @@
         },
         success: function(data){
           console.log(data);
-          if (data == "Successfull") {
+        if (data == "Successfull") {
             console.log('yepp');
             $('.s_submit').prop('disabled', true);
             $('.s_submit').prop('value', 'Redirecting..');

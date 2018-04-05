@@ -16,9 +16,9 @@
 ?>
 
 <?php
-  $title = "Thanks for registering • Instagram";
-  $keywords = "Instagram, Share and capture world's moments, share, capture, about";
-  $desc = "Instagram lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
+  $title = "Thanks for registering • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments, share, capture, about";
+  $desc = "Hashtag lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
 ?>
 
 <!DOCTYPE html>
@@ -28,7 +28,7 @@
     <title><?php echo $title; ?></title>
     <meta name="keywords" content=<?php echo $keywords; ?>>
     <meta name="description" content=<?php echo $desc; ?>>
-    <meta name="author" content="Instagram, Faiyaz Shaikh">
+    <meta name="author" content="Hashtag, Subho">
     <link rel="shortcut icon" href="images/favicon/favicon.png" type="image/png">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -45,7 +45,7 @@
         <img src="images/needs/glyph-instagram.jpg" alt="">
         <hr>
         <!-- <img src="images/needs/Snap 2017-01-29 at 18.32.04.jpg" alt=""> -->
-        <span>Instagram</span>
+        <span>Hashtag</span>
       </div>
       <div class="right">
         <a href="<?php echo DIR; ?>/" class="">Home</a>
@@ -62,7 +62,7 @@
     <img src="<?php echo DIR; ?>/images/needs/glyph-instagram.jpg" alt="">
     <div class="">
       <span>Thanks for registering.</span>
-      <span>Instagram is hosted freely, so you'll find it bit slow, because hosting company has allowed limited requests per minute.</span>
+      <span>Hashtag is hosted freely, so you'll find it bit slow, because hosting company has allowed limited requests per minute.</span>
       <span>Email verification is one of many features which has been removed, because the hosting company allows only 50 emails to be sent per day.</span>
       <div class="dev_div_links">
         <a href="<?php echo DIR; ?>/profile/<?php echo $universal->GETsDetails($session, "username"); ?>" class="sec_btn">Continue</a>

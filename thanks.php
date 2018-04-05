@@ -32,10 +32,15 @@
 <div class="badshah">
 
   <div class="about_div inst thanks_div">
-    <img src="<?php echo DIR; ?>/images/needs/glyph-instagram.png" alt="">
+    <img src="<?php echo DIR; ?>/images/needs/glyph-instagram.png" alt="Hashtag" height="50px" width="50px">
     <div class="">
-      <span>A message has been sent to you email. Check your inbox and click on the link provided in the message to verify your email.
-        <p><b>You can also Log In with your credentials from now itself.</b></p></span>
+      <span>
+          <center><p>Thanks for registering your Account, Enjoy <b>Hashtag.io</b>.</p>
+        
+        <br>
+          You are Currently at your Homepage. Please use the sidebars to navigate.
+        
+          </center></span>
     </div>
   </div>
 

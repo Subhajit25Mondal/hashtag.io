@@ -39,7 +39,7 @@
       $query = $this->db->prepare("SELECT id FROM users WHERE username = :username LIMIT 1");
       $query->execute(array(":username" => $get));
       if ($query->rowCount() == 0) {
-        return false;
+           return false;
       } else if ($query->rowCount() != 0) {
         return true;
       }

@@ -27,9 +27,9 @@
 ?>
 
 <?php
-  $title = "{$noti->titleNoti()} #$tag • Instagram";
-  $keywords = "#$tag, Instagram, Share and capture world's moments";
-  $desc = "View posts tagged with #$tag • Instagram";
+  $title = "{$noti->titleNoti()} #$tag • Hashtag";
+  $keywords = "#$tag, Hashtag, Share and capture world's moments";
+  $desc = "View posts tagged with #$tag • Hashtag";
 ?>
 
 <?php include_once 'includes/header.php'; ?>

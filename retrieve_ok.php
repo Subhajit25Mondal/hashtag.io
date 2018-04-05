@@ -15,9 +15,9 @@
 ?>
 
 <?php
-  $title = "Thanks for registering • Instagram";
-  $keywords = "Instagram, Share and capture world's moments, share, capture, about";
-  $desc = "Instagram lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
+  $title = "Thanks for registering • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments, share, capture, about";
+  $desc = "Hashtag lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
 ?>
 
 <?php include 'index_include/index_header.php'; ?>

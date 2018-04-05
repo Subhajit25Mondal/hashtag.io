@@ -1,7 +1,7 @@
 <?php
-  $title = "Forgot password • Instagram";
-  $keywords = "Instagram, Share and capture world's moments, share, capture, share, login, forgot password";
-  $desc = "Instagram lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
+  $title = "Forgot password • Hashtag";
+  $keywords = "Hashtag, Share and capture world's moments, share, capture, share, login, forgot password";
+  $desc = "Hashtag lets you capture, follow, like and share world's moments in a better way and tell your story with photos, messages, posts and everything in between";
 ?>
 
 <?php include 'index_include/index_header.php'; ?>
