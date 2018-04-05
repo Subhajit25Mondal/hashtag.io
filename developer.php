@@ -40,7 +40,7 @@
     <span>He's a full-stack developer and mostly writes code in DBMS & PHP as these are his favourite languages. And why he is programmer - 'coz he thinks programming is a religion!!
     </span>
     <br><br>
-      <span><b>The Github link will be posted here very soon.</b></span>
+      <span><center><b>If you want to contribute in this Project, please contact <i>my25website@gmail.com</i></b></center></span>
     
   </div>
 
