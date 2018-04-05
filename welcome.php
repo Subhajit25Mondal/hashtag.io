@@ -31,7 +31,7 @@
   
 
   <div class="banner">
-    <img src="<?php echo DIR; ?>/images/needs/dbx_29.png" alt="">
+    <img src="<?php echo DIR; ?>/images/needs/dbx_29.png" alt="Hashtag">
     <!-- <img src="http://chicohq.com/images/bg.svg" alt=""> -->
   </div>
 
