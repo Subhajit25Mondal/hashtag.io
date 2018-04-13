@@ -40,7 +40,7 @@
     <span>He's a full-stack developer and mostly writes code in JQuery & PHP as these are his favourite languages. And why he is programmer - 'coz he thinks programming is a religion!!
     </span>
     <br><br>
-      <span><center><b>If you want to contribute in this Project, please contact technobrain36@gmail.com</b></center></span>
+      <span><center><b>If you want to contribute in this Project, please contact technobrain36@gmail.com <br> Credits: @yTakkar </b></center></span>
     
   </div>
 
