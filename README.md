@@ -35,6 +35,7 @@ Hashtag.io is a PHP based social networking website, which supports exclusive mu
 11. Add tags to describe yourself much more.
 12. Edit your profile (From username, Bio, social links to tags).
 13. Get suggestions on whome to follow (you can also refresh suggestions).
+
 14. Know what are some of the most popular hashtags.
 15. Mutual likes and comments as in Facebook (When you see a post, if your followings have liked or commented on the post, then app re-arranges post's likers and commenters in a way that your followings get the first priority). eg. F1, F2, F3 and 230 others liked where F = Following.
 15. Shows images in Theatre mode.
@@ -85,6 +86,7 @@ Enjoy!!
 
 Show your support by 🌟 the project!!
 Feel free to contribute!
+Credits: @yTakkar
 
 # LICENSE
 MIT License
