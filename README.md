@@ -1,6 +1,15 @@
 # hashtag.io
 Hashtag.io is a PHP based social networking website, which supports exclusive multimedia content, sharing and private or group messaging service.
 
+# Quick Links
+ 1. [Screenshots](#screenshots)
+ 2. [Features](#features)
+ 3. [Requirements](#requirements)
+ 4. [Setup Guide](#setup-guide)
+ 5. [Contribute](#contribute)
+ 6. [License](#license)
+ 
+
 # Screenshots
 
 <img width="960" alt="capture1" src="https://user-images.githubusercontent.com/27961735/38722563-e759e80a-3f1b-11e8-99b1-67c38138cb82.PNG">
